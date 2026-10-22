@@ -2,11 +2,11 @@
 
 ## 1. Project Overview
 
-This project involves deploying an Employee Directory web application on Amazon Web Services (AWS). The application is based on a practical cloud computing lab and demonstrates how to deploy a web application using AWS networking and compute resources.<b/>
+This project involves deploying an Employee Directory web application on Amazon Web Services (AWS). The application is based on a practical cloud computing lab and demonstrates how to deploy a web application using AWS networking and compute resources.<br/>
 
-The initial implementation focuses on hosting the application on an Amazon EC2 instance within a Virtual Private Cloud (VPC), with internet connectivity configured through an Internet Gateway and VPC route tables.<b/>
+The initial implementation focuses on hosting the application on an Amazon EC2 instance within a Virtual Private Cloud (VPC), with internet connectivity configured through an Internet Gateway and VPC route tables.<br/>
 
-The project will be extended to incorporate additional AWS services for database integration, monitoring, and DNS management.<b/>
+The project will be extended to incorporate additional AWS services for database integration, monitoring, and DNS management.<br/>
 
 ## 2. Project Objectives
 
@@ -45,7 +45,6 @@ The initial architecture consists of an EC2 instance hosting the Employee Direct
 
 ### Initial Architecture Flow
 
-```text
                  Internet
                     |
                     |
