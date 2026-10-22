@@ -45,16 +45,4 @@ The initial architecture consists of an EC2 instance hosting the Employee Direct
 
 ### Initial Architecture Flow
 
-                 Internet
-                    |
-                    |
-             Internet Gateway
-                    |
-                    |
-              VPC Route Table
-                    |
-                    |
-             Amazon EC2 Instance
-                    |
-                    |
-         Employee Directory Website
+
